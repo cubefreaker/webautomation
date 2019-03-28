@@ -1,0 +1,1 @@
+start opsifin-venv\Scripts\Activate.bat
